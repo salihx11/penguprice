@@ -339,7 +339,7 @@ class PudgyPenguinsBot:
 /ca or `ca` - Get contract address
 
 *Common typos also work:*
-`pricee`, `caa`, `pricce`, etc.
+`pricee`,`pricce`, etc.
 
 *In groups, use:*
 `/price` or `@botname price`
